@@ -31,3 +31,7 @@ Plan meals first. Shop with a list. Check the pantry before you write it. Buy st
 The **Meal Plan and Grocery Budget Planner** has the weekly planner, store-section grocery list, pantry inventory, monthly budget tracker and eating-out log: https://spectre5.gumroad.com/l/omyrp ($5)
 
 More guides: https://patreon.com/123black
+
+## Free calculator
+
+[Recipe cost per serving calculator](https://blacksgit.github.io/recipe-cost/): runs in your browser, nothing to install.
